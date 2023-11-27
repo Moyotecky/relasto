@@ -86,7 +86,7 @@ const LandingPageHeader: React.FC<LandingPageHeaderProps> = (props) => {
               className="text-base text-gray-900 w-auto"
               size="txtManropeSemiBold16"
             >
-             <a href="/Blog"> Blog</a>
+             <a href="/BlogPage"> Blog</a>
             </Text>
           </div>
           <div className="flex flex-row gap-10 h-[42px] md:h-auto sm:hidden items-center justify-start w-[228px]">
